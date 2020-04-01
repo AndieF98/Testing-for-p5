@@ -1,3 +1,4 @@
+//let mic;
 let mic;
 let fft;
 
